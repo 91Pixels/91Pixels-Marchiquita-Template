@@ -1,5 +1,6 @@
 91Pixels/Marchiquita
 Personal Portfolio Template
+Marchiquita holds a special place in my heart as it was the beach where I spent my childhood, resembling a playful paradise. Its name serves as a beautiful tribute to this enchanting natural haven.
 
 If you have any questions that are beyond the scope of this documentation file, please feel free to contact me​ anytime.
 
@@ -106,7 +107,7 @@ We will be happy to help you solve any issues. If you have any questions, sugges
 
 And Follow our profile
 
-Once again. Thank you for purchasing this item!
+Once again. Thank you for visiting!
 
 
 Designed and Developed with ❤️ by Michael A. Camacho.
